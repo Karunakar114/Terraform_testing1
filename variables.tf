@@ -10,11 +10,11 @@ type = "map"
     }
 }
 variable "aws_access_key" {
-    default = "AKIAVTINEDMC57G77HWR"
+    default = ""
     description = "user aws access key"
 }
 variable "aws_secret_key" {
-    default = "EmCLU200RiDOfn6KGk5/Vh4bdEaGaNNdixO8rzJE"
+    default = ""
     description = " user aws secret key"
 }
 variable "vpc-fullcidr" {
